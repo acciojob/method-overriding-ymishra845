@@ -1,8 +1,14 @@
 package com.driver.test;
 
-import static org.junit.Assert.*;
+import static org.junit.jupiter.api.Assertions.*;
+
 import org.junit.jupiter.api.Test;
 
-public class TestCases {
-    
+class MainTest {
+
+	@Test
+	void test() {
+		fail("Not yet implemented");
+	}
+
 }
